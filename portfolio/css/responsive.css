@@ -1,0 +1,196 @@
+@media (min-width:320px) and (max-width:480px){
+	label.logo{
+		padding:0;
+		margin-left:10px;
+	}
+	.banner{
+		width:100%;
+	}
+	#slide1, #slide2{
+		width:100%;
+		text-align: center;
+	}
+.content{
+		width:100%;
+		text-align:center;
+	}
+.hlw {
+    margin:100px 0 0 0;
+}
+.hlw_1 {
+    margin-bottom:0;
+    margin-left:0;
+}
+.hlw_2 {
+     margin:5px 0;
+}
+span{
+     color:#28bba0;
+}
+.hlw_3 {
+    margin-left:0;
+    padding-right:0;
+}
+button{
+	margin:0 0 10px 0;
+}
+.button_1{
+	margin:0;
+}
+.man_image {
+    width: 94%;
+    height: 378px;
+    margin-right:0;
+    float:none;
+    margin-top: 20px;
+}
+.banner .icon {
+    width: 100%;
+    text-align: center;
+    margin: 18px 0;
+}
+.banner::after{
+	display:none;
+}
+.ofc_img {
+    margin-left:50px; 
+    margin-top:0;
+    float:none; 
+}
+.about {
+     margin-top:0;
+     float:none;
+     margin-right:0;
+    text-align: center;
+}
+.about .abt{
+	margin-bottom:0;
+}
+.about h2{
+	color:black;
+	padding-top:0;
+	margin:10px 0;
+}
+.about p{
+	margin:0 3px;
+	width:100%;
+}
+.mail_div h2 {
+    margin-bottom: 1px;
+    font-size: 16px;
+    padding: 0 68px;
+    color: #fff;
+    padding-top: 32px;
+}
+#services{
+	text-align: center;
+    padding: 40px 0;
+}
+#services .shape-1{
+	display:none;
+}
+#services .dev {
+    margin-top:0;
+    margin-left:0;
+}
+#services .dev .srv {
+    padding-top: 0;
+}
+#services .developer,#services .database,
+#services .java,#services .ui,
+#services .marketing,#services .front{
+	width:100%;
+	margin-right:0;
+}
+#services .dev .srvc{
+	margin-bottom:15px;
+}
+#education .shape-2 {
+    position: absolute;
+    right: 0;
+    display: none;
+}
+#education .dev {
+    margin-top:0;
+    margin-left:0;
+}
+#education .content_area::after{
+	display:none;
+}
+.angle_left, .angle_right{
+    display:none;
+}
+#education .content_area .left_side,
+#education .content_area .right_side{	
+	width:100%;
+}
+#education .scndry,#education .higher,
+#education .extra,#education .dip{
+     margin-bottom: 30px;
+     margin-right:0;
+     margin-top:0;
+	 width: 369px;
+}
+#project {
+    margin-left:0;
+}
+.prct {
+    width: 100%;
+    padding: 50px 0;
+}
+#project .prct1{
+	margin:0;
+}
+#project .para{
+	margin:20px 25px;
+	font-size:20px;
+}
+.prjtc .pos,.prjtc .Vehicle,.prjtc .room {
+    float:none; 
+    width: 100%;
+    margin-bottom:20px;
+}
+#project .img2,#project .img1,#project .img3{
+	width:100%;
+}
+.dots {
+    width: 100%;
+    text-align: center;
+}
+#project .circle1{
+	margin:0;
+}
+#contact{
+	margin-top:30px;
+    padding: 80px 0;
+    width: 100%;
+}
+.forms {
+    width: 100%;
+}
+#contact h1{
+	margin:30px 0;
+} 
+#contact .form{
+    width: 100%;
+    padding: 15px 40px;
+    margin-top: 20px;
+    margin-right:0;
+}
+#contact .form1{
+	font-size: 22px;
+    width: 100%;
+    padding: 27px 10px;
+    margin-right:0;
+    margin-top:20px;
+}
+#contact .button{
+	padding: 7px 28px;
+    position: relative;
+    top: 30px;
+}
+.mail_div .div_item {
+    width: 270px;
+    height: 100px;
+}
+}
